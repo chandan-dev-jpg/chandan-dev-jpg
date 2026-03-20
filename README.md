@@ -1,5 +1,5 @@
 # chandanbehera4598-ai
-
+![logo](https://github.com/chandanbehera4598-ai/chandanbehera4598-ai/blob/main/my_git_img.png)
 <h1 align="center">Hi 👋, I'm Chandan Behera</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="coding image" width="300">
