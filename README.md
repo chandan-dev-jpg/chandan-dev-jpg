@@ -53,10 +53,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandan-dev-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-dev-jpg&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=chandan-dev-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  &nbsp;&nbsp; -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-dev-jpg&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-dev-jpg&theme=tokyonight&hide_border=true" height="180"/>
